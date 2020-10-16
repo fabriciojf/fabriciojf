@@ -3,7 +3,7 @@
 I'm Fabrício Costa, Software Engineer at Bemmelhor SI since 2005. 
 
 [![Linkedin: fabriciojf](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricioscosta/)](https://www.linkedin.com/in/fabricioscosta/)
-[![Youtube: fabricio souza](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/Fabr%C3%ADcioSouza-Fabriciojf)](https://www.youtube.com/c/Fabr%C3%ADcioSouza-Fabriciojf)
+[![Youtube: fabricio souza](https://img.shields.io/badge/-Youtube-red?style=flat-
 
 ## Technologies
 
