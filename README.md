@@ -9,12 +9,13 @@ I'm Fabrício Costa, Software Engineer at Bemmelhor SI since 2005.
 
 My knowledge base
 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-1572b6?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-1572b6?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-1572b6?style=flat-square&logoColor=white&logo=php)
 ![C#](https://img.shields.io/badge/-CSharp-1572b6?style=flat-square&logoColor=white&logo=c-sharp)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1572b6?style=flat-square&logo=javascript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
